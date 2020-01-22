@@ -18,7 +18,7 @@ namespace Exercise2
 
             int heart_rate;
             heart_rate = 220 - age;
-            Console.WriteLine("I am " + " " + age + " " + "years old, my max heart rate is " +" "+ heart_rate + "" + "and I am " + height +" " + "feet tall");
+            Console.WriteLine("I am " + " " + age + " " + "years old, my max heart rate is " +" "+ heart_rate + " " + "and I am " + height +" " + "feet tall");
         }
     }
 }
